@@ -1,0 +1,1 @@
+&copy; <?php echo date('Y') ?> All Rights Reserved. <a href="http://otakud.in/">Otaku</a>.
